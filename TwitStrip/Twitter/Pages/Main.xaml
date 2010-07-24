@@ -2,7 +2,7 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="window" x:Class="Pages.MainWindow"
-    Title="Tweety" Height="104" Width="1280" Left="0" Top="670"
+    Title="I've Got a loverly bunch of coconuts" Height="104" Width="1280" Left="0" Top="670"
     StateChanged="window_StateChanged" 
     Closing="window_Closing" 
     Loaded="Window_Loaded" 

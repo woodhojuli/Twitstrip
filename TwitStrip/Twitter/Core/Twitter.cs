@@ -16,7 +16,6 @@ namespace Core {
         public String ProfileImageUrl;
         public String DateUpdated;
         public String CreatedAt;
-        public String boaoaoaosads;
     }
 
     public static class Twitter {
