@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tweety", "Twitter\Tweety.csproj", "{9AE1FEB9-060E-4C44-A8D9-121CA4B75C82}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installation", "Installation\Installation.vdproj", "{0914E9F2-17A3-4D74-AE05-9D9677B6D271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE1FEB9-060E-4C44-A8D9-121CA4B75C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE1FEB9-060E-4C44-A8D9-121CA4B75C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE1FEB9-060E-4C44-A8D9-121CA4B75C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE1FEB9-060E-4C44-A8D9-121CA4B75C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0914E9F2-17A3-4D74-AE05-9D9677B6D271}.Debug|Any CPU.ActiveCfg = Debug
+		{0914E9F2-17A3-4D74-AE05-9D9677B6D271}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

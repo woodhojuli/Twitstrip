@@ -1,0 +1,18 @@
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\bin\Debug\Tweety.exe.config
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\bin\Debug\Tweety.exe
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\bin\Debug\Tweety.pdb
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\Alert.baml
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\Main.baml
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\Settings.baml
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\Alert.g.cs
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\Main.g.cs
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\Settings.g.cs
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Pages\App.g.cs
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Tweety_MarkupCompile.cache
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Tweety.g.resources
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Tweety.exe
+C:\Documents and Settings\Brian4\My Documents\Visual Studio 2010\Projects\Tweety\Twitter\obj\Debug\Tweety.pdb
+E:\Tweety\Twitter\bin\Debug\Tweety.exe.config
+E:\Tweety\Twitter\obj\Debug\Tweety.exe
+E:\Tweety\Twitter\obj\Debug\Tweety.pdb

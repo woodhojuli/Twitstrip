@@ -1,0 +1,13 @@
+﻿<Window x:Class="Pages.Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Settings" Height="157" Width="219" Background="White" WindowStyle="SingleBorderWindow" WindowStartupLocation="CenterScreen" FocusManager.FocusedElement="{Binding ElementName=txtUserName}" ResizeMode="NoResize">
+    <Grid Background="#215B5B5B" Height="126" Width="189">
+        <Label Content="Username:" Height="28" HorizontalAlignment="Left" Margin="0,12,0,0" Name="label1" VerticalAlignment="Top" Width="90" />
+        <TextBox DataContext="{Binding}" Height="20" HorizontalAlignment="Left" Margin="61,16,0,0" Name="txtUserName" VerticalAlignment="Top" Width="116" />
+        <PasswordBox Height="20" HorizontalAlignment="Left" Margin="61,51,0,0" Name="txtPassword" VerticalAlignment="Top" Width="116" />
+        <Label Content="Password" Height="28" HorizontalAlignment="Left" Margin="0,51,0,0" Name="label2" VerticalAlignment="Top" Width="90" />
+        <CheckBox Content="Stay signed in" Height="20" HorizontalAlignment="Left" Margin="10,92,0,0" Name="chkStayLogin" VerticalAlignment="Top" Width="90" />
+        <Button Click="cmdLogin_Click" Content="Login" Height="25" HorizontalAlignment="Right" IsDefault="True" Margin="0,86,12,0" Name="cmdLogin" VerticalAlignment="Top" Width="71" />
+    </Grid>
+</Window>
